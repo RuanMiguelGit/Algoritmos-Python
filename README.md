@@ -151,8 +151,8 @@ $ python3 nome_do_arquivo.py
 
 ### Data de Entrega
 
-  - Serão `X` dias de projeto.
-  - Data de entrega para avaliação final do projeto: `DD/MM/YYYY - 14:00h`.
+  - Serão `2` dias de projeto.
+  - Data de entrega para avaliação final do projeto: `23/09/2021 - 14:00h`.
 
 ---
 
@@ -162,7 +162,7 @@ $ python3 nome_do_arquivo.py
 
 1. Clone o repositório
 
-- `git clone https://github.com/betrybe/sd-08-project-algorithms.git`.
+- `git clone https://github.com/tryber/sd-08-project-algorithms.git`.
 - Entre na pasta do repositório que você acabou de clonar:
   - `sd-08-project-algorithms`
 
